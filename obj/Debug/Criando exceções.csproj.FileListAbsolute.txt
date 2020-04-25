@@ -1,0 +1,7 @@
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\bin\Debug\Criando exceções.exe.config
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\bin\Debug\Criando exceções.exe
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\bin\Debug\Criando exceções.pdb
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\obj\Debug\Criando exceções.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\obj\Debug\Criando exceções.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\obj\Debug\Criando exceções.exe
+C:\Users\Mike\Desktop\projetos\c#\Revisão abril 16 2020\Criando exceções\obj\Debug\Criando exceções.pdb
